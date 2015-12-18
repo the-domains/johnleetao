@@ -1,0 +1,28 @@
+name: JohnLeeTao
+favicon: null
+layout_spectrum: 0.42559605301357806
+typography_spectrum: 0.7928003806155175
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6907360441982746
+  lightness: 0.01920579536817968
+  saturation: 0.9530095933005214
+  rhythmicContrast: 0.2278897506184876
+purpose: []
